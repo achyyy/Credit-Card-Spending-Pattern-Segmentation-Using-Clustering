@@ -1,0 +1,6 @@
+.venv/
+.ipynb_checkpoints/
+eda/pca_clusters.png
+eda/customer_profiles.png
+eda/spending_by_quintile.png
+dataset/CC GENERAL.csv
