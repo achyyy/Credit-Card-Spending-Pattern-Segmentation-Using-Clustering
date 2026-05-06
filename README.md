@@ -56,3 +56,9 @@ Note: The notebook keeps `spending_vs_payment.png` as an appendix visual and use
 - Commercial Opportunities: Premium Spenders are candidates for loyalty/upsell programs and credit-product cross-sell.
 - Operational Recommendations: Implement targeted outreach (repayment assistance, tailored credit limits, preventive monitoring) for at-risk clusters.
 - Model Notes: K=4 was chosen for interpretability; the elbow plot showed no sharp knee—validate with Silhouette/Davies–Bouldin scores before production.
+
+ ## BI Dashboards
+
+<img width="949" height="533" alt="Screenshot 2026-05-06 174422" src="https://github.com/user-attachments/assets/990d5dc6-843a-4cd2-8d53-1dea4f04f4ae" />
+<img width="949" height="534" alt="Screenshot 2026-05-06 174400" src="https://github.com/user-attachments/assets/fa2b8c55-7fa9-422b-83a4-b5fdb8674c4f" />
+<img width="948" height="533" alt="Screenshot 2026-05-06 174324" src="https://github.com/user-attachments/assets/bf5fccfc-9498-4e6d-b0e3-83d3ff70fe22" />
